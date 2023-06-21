@@ -22,6 +22,6 @@ I'm Vern and I Love C
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vern&show_icons=true&locale=en&layout=compact" alt="vern" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernthedragon&show_icons=true&locale=en&layout=compact" alt="vern" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vern&show_icons=true&locale=en" alt="vern" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernthedragon&show_icons=true&locale=en" alt="vern" /></p>
