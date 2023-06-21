@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vern</h1>
+# Hey there! 🎉
+
+I'm Vern and I Love C
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vern&label=Profile%20views&color=0e75b6&style=flat" alt="vern" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vern" alt="vern" /></a> </p>
