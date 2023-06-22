@@ -1,6 +1,6 @@
 # Hey there! 🎉
 
-I'm Vern and I Love C
+I'm Vern, Age 14 and I Love C
 
 ##### Most of my Repositories are Private
 
