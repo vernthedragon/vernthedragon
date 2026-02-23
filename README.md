@@ -1,10 +1,10 @@
 # Hey there! 🎉
 
-I'm Vern, Age 17 and I Love C
+I'm Vern, Age 18 and I Love C
 
 ##### Most of my Repositories are Private
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vern&label=Profile%20views&color=aaaaff&style=flat" alt="vern" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vernthedragon&label=Profile%20views&color=aaaaff&style=flat" alt="vern" /> </p>
 
 <p align="left"> <a href="https://github.com/vernthedragon/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vern" alt="vern" /></a> </p>
 
